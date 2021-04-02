@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+p {
+  font-family: sans-serif;
+}
+/* sidebar */
+.sidebar {
+  -webkit-box-shadow: 0 0 10px grey;
+  box-shadow: 0 0 10px grey;
+  width: 100%;
+  max-width: 65px;
+  max-height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  color: grey;
+  font-size: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.sidebar * {
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+.sidebar > div {
+  width: 100%;
+}
+.sidebar .sidebar-navs > div {
+  margin-bottom: 25px;
+  width: 100%;
+  position: relative;
+}
+.sidebar .sidebar-navs > div.selected {
+  color: #000;
+}
+.sidebar .sidebar-navs > div.selected::before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: black;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+}
+
+.sidebar .setting {
+  cursor: pointer;
+}
+.sidebar .setting:hover {
+  color: #000;
+}
+.main-container {
+  padding: 15px;
+  width: 100%;
+}
+
+header {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+section {
+  display: -ms-grid;
+  display: grid;
+}
+
+.list-categories {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+}
+.list-categories > p.selected {
+  background-color: black;
+  color: #fff;
+}
+
+/* right section */
+.total-order {
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+}
+
+.total-order button {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  outline: none;
+  background-color: rgb(17, 143, 0);
+  color: #fff;
+  -webkit-box-shadow: 0 0 3px grey;
+  box-shadow: 0 0 2px grey;
+}
