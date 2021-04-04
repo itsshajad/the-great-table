@@ -1,0 +1,295 @@
+{
+  "drinks": [
+    {
+      "title": "wine",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "title": "water",
+      "products": [
+        {
+          "id": 1,
+          "title": " Freres",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 2.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 10.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 11.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    }
+  ],
+  "foods": [
+    {
+      "title": "spicy",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "title": "healthy",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    }
+  ],
+  "dessert": [
+    {
+      "title": "cakes",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "title": "frozen",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "title": "pastries",
+      "products": [
+        {
+          "id": 1,
+          "title": "Beaux Freres",
+          "price": 7.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Cheteau Climens",
+          "price": 3.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Cabernet Sauvignon",
+          "price": 9.25,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Domaine Serene",
+          "price": 6.0,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Lewis Alecs",
+          "price": 4.5,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Federalist",
+          "price": 8.8,
+          "image": "https://5.imimg.com/data5/FR/ID/MY-40810582/750-ml-wine-glass-bottle-green-500x500.jpg"
+        }
+      ]
+    }
+  ]
+}

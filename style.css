@@ -227,6 +227,7 @@ section {
   height: 40px;
   font-size: 16px;
   padding: 10px;
+  text-transform: capitalize;
 }
 
 /* items container */
@@ -339,7 +340,11 @@ section {
   border-bottom: 1px solid rgb(190, 190, 190);
   padding-bottom: 15px;
 }
-.cart-items > div {
+.cart-items > div:first-child {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-items > .products > div {
   display: flex;
   justify-content: space-between;
   margin-bottom: 5px;
@@ -428,7 +433,7 @@ section {
   .cart-container {
     max-height: 486px;
     overflow-y: auto;
-    padding-right: 10px;
+    padding-right: 21px;
   }
 
   .total-order {
