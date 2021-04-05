@@ -82,6 +82,9 @@ button {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+.logo-box {
+  padding: 12px;
+}
 .sidebar > div {
   width: 100%;
   display: -webkit-box;
@@ -339,14 +342,20 @@ section {
 .cart-items {
   border-bottom: 1px solid rgb(190, 190, 190);
   padding-bottom: 15px;
+  padding-top: 25px;
 }
 .cart-items > div:first-child {
   display: flex;
   justify-content: space-between;
 }
+.cart-items > .products {
+  margin-top: 10px;
+}
 .cart-items > .products > div {
-  display: flex;
-  justify-content: space-between;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr auto;
+  grid-template-columns: 1fr 1fr auto;
   margin-bottom: 5px;
   margin-top: 5px;
 }

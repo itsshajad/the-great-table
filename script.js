@@ -85,7 +85,7 @@ function dropdownFilter(e) {
     (c) => c.title == e.currentTarget.value.toLowerCase()
   );
 
-  filteredItems(tempArray.products, e.currentTarget.value);
+  filteredItems(tempArray.products);
 }
 
 const filteredItems = (data, product) => {
@@ -109,7 +109,7 @@ const filteredItems = (data, product) => {
                   <div class="items-handler">
                     <button>-</button>
                     <button>0</button>
-                    <button onclick="handler('increment', ${productId}, 'drinks')"> + </button>
+                    <button onclick="handler('increment', ${val}, 'drinks')"> + </button>
                   </div>
                 </div>
               </div>`;
