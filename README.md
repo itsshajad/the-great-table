@@ -1,1 +1,2 @@
-# eloquent-bardeen-ade733.netlify.app/
+# the-great-table
+eloquent-bardeen-ade733.netlify.app/
